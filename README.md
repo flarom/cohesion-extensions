@@ -1,2 +1,5 @@
-# cohesion-extensions
-Extensions for the Cohesion Markdown Editor
+# Cohesion extensions
+
+| Extension | Author | Description | Version | Download |
+| --------- | ------ | ----------- | ------- | -------- |
+| Test      | flarom | API test    | 1.0     |          |
