@@ -1,9 +1,3 @@
----
-layout: default
-title: Cohesion extensions
-description: Official extensions for Cohesion editor
----
-
 # Cohesion extensions
 
 | Extension              | Author | Description                                                       | Version | Download |
