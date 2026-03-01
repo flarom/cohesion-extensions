@@ -2,9 +2,11 @@
  * @extension
  * @title API DEMO slash commands
  * @author Flarom
+ * @version 1.0.0
+ * @updateLink https://github.com/flarom/cohesion-extensions/blob/main/api-demos/api-demo-slashcommands.js
  * @description Creates a '/pokemon' slash command that fetches data from pokeapi
- * @icon raven
- * @color #2196F3
+ * @icon extension
+ * @color var(--text-color)
  */
 
 CommandRegistry.register("pokemon", {
