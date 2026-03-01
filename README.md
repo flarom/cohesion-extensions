@@ -1,5 +1,5 @@
 # Cohesion extensions
 
-| Extension | Author | Description | Version | Download |
-| --------- | ------ | ----------- | ------- | -------- |
-| Test      | flarom | API test    | 1.0     |          |
+| Extension              | Author | Description                                                          | Version | Download |
+| ---------------------- | ------ | -------------------------------------------------------------------- | ------- | -------- |
+| api-demo-slashcommands | flarom | Creates a `/pokemon` slash command that fetches data from pokeapi    | 1.0     |          |
