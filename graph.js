@@ -3,7 +3,7 @@
  * @title Graphs
  * @author Flarom
  * @version 1.0.0
- * @updateLink https://github.com/flarom/cohesion-extensions/blob/main/graphs.js
+ * @updateLink https://github.com/flarom/cohesion-extensions/blob/main/graph.js
  * @documentationLink https://github.com/flarom/cohesion-extensions/wiki/Graphs
  * @description Implementation of pie, bars and line charts for Cohesion.
  * @icon bar_chart
