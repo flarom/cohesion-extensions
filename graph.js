@@ -1,7 +1,7 @@
 /**
  * @extension
  * @title Graphs
- * @author Flarom
+ * @author Cohesion
  * @version 1.0.0
  * @updateLink https://github.com/flarom/cohesion-extensions/blob/main/graph.js
  * @documentationLink https://github.com/flarom/cohesion-extensions/wiki/Graphs
